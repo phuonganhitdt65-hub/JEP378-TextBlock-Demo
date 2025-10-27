@@ -11,8 +11,8 @@ Dùng ba dấu nháy kép `"""` để mở và đóng chuỗi văn bản nhiều
 String html = """
     <html>
         <body>
-            <h1>Hello from Text Blocks!</h1>
-            <p>This text block keeps formatting beautifully.</p>
+            <h1>Hello, Java 15!</h1>
+            <p>Đây là ví dụ minh họa cho JEP 378 - Text Blocks.</p>
         </body>
     </html>
     """;
